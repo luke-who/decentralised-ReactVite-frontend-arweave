@@ -1,4 +1,4 @@
-# Decentralised-React+Vite-Frontend-Arweave
+# Permanently deploy a decentralized React frontends to Arweave
 
 We will be building a very simple React app that lets people connect their wallets, and deploy it to [Arweave](https://www.arweave.org/).
 
