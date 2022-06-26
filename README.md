@@ -33,6 +33,6 @@ After this make sure `wallet.json` is created at the root of your project. The `
 ## Arweave deployment
 Now run `yarn deploy` at the root of your project to deploy our react app!
 
-This page will now live on Arweave FOREVER. Current url:https://arweave.net/M-dpxq6UhWzKagvu1CedA8hMBULprkK2wVnmFdRMclA
+This page will now live on Arweave FOREVER, with each update to the webpage generates a new url. Current url: https://arweave.net/M-dpxq6UhWzKagvu1CedA8hMBULprkK2wVnmFdRMclA
 
 Footnote: original tutorial can be found [here](https://mirror.xyz/dhaiwat.eth/NV--7dv8CO0NCcFCvRjDCxBe3VuxdB2_KggwFEfLGRc?utm_source=tldrnewsletter)
