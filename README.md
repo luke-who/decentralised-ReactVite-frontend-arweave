@@ -35,4 +35,4 @@ Now run `yarn deploy` at the root of your project to deploy our react app!
 
 This page will now live on Arweave FOREVER, with each update to the webpage generates a new url. Make sure the new url is updated under **About** in Github repo. Current url: https://arweave.net/M-dpxq6UhWzKagvu1CedA8hMBULprkK2wVnmFdRMclA
 
-Footnote: original tutorial can be found [here](https://mirror.xyz/dhaiwat.eth/NV--7dv8CO0NCcFCvRjDCxBe3VuxdB2_KggwFEfLGRc?utm_source=tldrnewsletter)
+*Footnote: original tutorial can be found [here](https://mirror.xyz/dhaiwat.eth/NV--7dv8CO0NCcFCvRjDCxBe3VuxdB2_KggwFEfLGRc?utm_source=tldrnewsletter)*
